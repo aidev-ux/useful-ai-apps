@@ -42,7 +42,7 @@ A curated list of powerful AI tools for creators, developers, and everyday users
 
 ## Video Creation
 
-### [Image-to-Video Converter](https://digitalmagicwand.com/image-to-video)
+### [Image-to-Video Converter](https://digitalmagicwand.com/video-from-image-and-text)
 - Transforms static images into dynamic videos
 - Works with simple text descriptions to guide the animation
 - Creates natural-looking movement with smooth transitions
